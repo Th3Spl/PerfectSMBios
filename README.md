@@ -14,8 +14,8 @@ The functions are self explanatory and easy to understand with comments
 
 ### How do i build the example?
 If you are having issues compling the example or more in general with
-the EDK2 i highly suggest checking out my other repository [SimpleUEFI](https://github.com/Th3Spl/SimpleUEFI)
-which will setup the EDK2 and the MSVC environment for you.
+the `EDK2` i highly suggest checking out my other repository [`SimpleUEFI`](https://github.com/Th3Spl/SimpleUEFI)
+which will setup the `EDK2` and the `MSVC` environment for you.
 
 ### Showcase:
 
