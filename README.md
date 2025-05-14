@@ -17,4 +17,24 @@ If you are having issues compling the example or more in general with
 the EDK2 i highly suggest checking out my other repository [SimpleUEFI](https://github.com/Th3Spl/SimpleUEFI)
 which will setup the EDK2 and the MSVC environment for you.
 
+### Showcase:
+
+Before:
+</br>
+![Before](https://i.imgur.com/2YBEvjd.png)
+</br>
+After:
+</br>
+![Afer](https://i.imgur.com/NK3djvD.png)
+</br>
+Logs:
+</br>
+![Logs](https://i.imgur.com/lBCvH2F.png)
+</br>
+
+#### Notes:
+PerfectSMBios is lightweight, simple and C compliant
+</br>
+if you have any issue feel free to contact me or open an issue here.
+
 - Th3spl
