@@ -10,7 +10,7 @@ the way `PerfectSMBios` does it.
 1. Get `PerfectSMBios.c` and `PerfectSMBios.h` from this repo
 2. Include both in your project and you're good
 
-The functions are self explanatory and easy to understand with comments
+The functions are self explanatory and easy to understand with comments 
 
 ### How do i build the example?
 If you are having issues compling the example or more in general with
